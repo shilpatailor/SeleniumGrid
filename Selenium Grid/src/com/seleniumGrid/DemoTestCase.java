@@ -23,6 +23,8 @@ public class DemoTestCase {
 		
 		driver.get("https://www.google.com/");
 		System.out.println(driver.getTitle());
+		
+		System.out.println("Testing git push");
 
 	}
 
